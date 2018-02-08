@@ -1,4 +1,4 @@
-function [th]=solve(x,y,th);
+function [th]=Linear_regression(x,y,th);
 m=size(x,1);
 pred=x*th;
 error=(1/(2*m))*sum((pred-y).^2);
