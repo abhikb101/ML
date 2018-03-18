@@ -1,0 +1,9 @@
+I have attempted to solve this problem using random forests, and have followed the following steps:-
+1)importing the libraries
+2)importing the data
+3)checking the data for null/missing values
+4)describing the data
+5)removing the features that were irreleveant
+6)training the random forest classifier using test data 
+7)prediciting the label for the test case
+8)exporting the results
