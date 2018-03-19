@@ -12,6 +12,7 @@ from sklearn.neighbors import KNeighborsClassifier
 
 
 # ### Importing Data
+#data can be downloaded from uci or kaggle
 
 # In[2]:
 
